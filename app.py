@@ -37,7 +37,7 @@ DEFAULT_PIN_ID = "0"
 
 # ================= INFO API =================
 
-INFO_API_URL = "http://br-raja-info-v3.vercel.app/accinfo"
+INFO_API_URL = "https://brexx-info.vercel.app/accinfo"
 
 BASE64 = "aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1NoYWhHQ3JlYXRvci9pY29uQG1haW4vUE5H"
 
